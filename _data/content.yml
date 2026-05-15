@@ -6,17 +6,17 @@
 ### Hero [ hero-image ]
 hero:
   image: "assets/img/profile.png"
-  image_alt: "이태원"
+  image_alt: "고하영"
   before_title: "환영합니다, <b>제 이름은</b>"
-  title: "<b>Taewon</b> Lee"
-  after_title: "I am <strong>Cyber Security Professional</strong>"
-  description: "폴리텍 대학 강서캠퍼스 사이버 보안과 2학년 입니다."
+  title: "<b>hayoung</b> Ko"
+  after_title: "저는 <strong>IT마케터를 희망하고 있습니다.</strong>"
+  description: "사이버보안을 전공하며 선제적인 취약점 분석과 강력한 인프라 보안에 집중하고 있습니다. 클라우드 환경의 시스템 구축과 리눅스 서버 내 비정상 행위 탐지 프로젝트를 통해 실무적인 보안 감각을 키워가고 있습니다."
   button1:
-    label: "이력서 다운받기"
-    link: "#"
+    label: "이력서 보기"
+    link: "#이력서 링크 넣기"
   button2:
-    label: "My Skills"
-    link: "#skills-section"
+    label: "포트폴리오 보기"
+    link: "#포트폴리오 링크 넣기"
   bg_title: "Cyber Security"
   info:
     - num: "2 <strong>+</strong>"
@@ -27,26 +27,26 @@ hero:
 
 ### Services [ services ]
 services:
-  title: "What I Do"
-  subtitle: "my <b>Services</b>"
+  title: "전문 분야"
+  subtitle: "핵심 <b>역량</b>"
   bg_title: "Services"
 
   items:
-    - title: "Web Design &amp; Logo"
-      subtitle: "Web Development"
-      text: "Web designers craft the overall vision &amp; plan for a website layout. Professional logo development: Business, Company, or Personal."
+    - title: "데이터 기반 분석 및 설계"
+      subtitle: "Data Analysis & Strategy"
+      text: "어떤 프로젝트든 핵심을 꿰뚫는 분석력을 바탕으로 접근합니다. 수집된 데이터를 논리적으로 분석하여 인물의 니즈를 파악하고, 이에 맞춘 최적화된 기획과 전략을 설계합니다."
       button_label: "See Pricing"
       button_link: "#pricing-section"
 
-    - title: "iOS &amp; Android"
-      subtitle: "Apps Development"
-      text: "Design Software applications to run on mobile devices. Modern and mobile-ready application that will help you reach all of your marketing."
+    - title: "조사 분석 및 문서화"
+      subtitle: "Research & Reporting"
+      text: "필요한 정보를 직접 연구하고 조사하여 논리적인 결과물로 완성합니다. 전문적인 내용도 타겟 독자에 맞춰 명확하게 전달하여, '분석과 설계' 과목에서 최우수 성적을 기록했습니다."
       button_label: "See Pricing"
       button_link: "#pricing-section"
 
-    - title: "Unity &amp; Unreal Engine"
-      subtitle: "Game Development"
-      text: "Creating games &amp; describes the design, development and release of a game. Developing unique mobile android and ios games."
+    - title: "논리적 커뮤니케이션과 팀워크"
+      subtitle: "Teamwork & Communication"
+      text: "목표 달성 과정에서 발생하는 이견을 감정적으로 접근하지 않습니다. 다양한 방법론을 시뮬레이션하고 가장 효율적인 방식을 객관적으로 비교하여, 팀원 모두가 납득할 수 있는 논리적인 합의를 이끌어냅니다."
       button_label: "See Pricing"
       button_link: "#pricing-section"
 
