@@ -256,7 +256,7 @@ contacts:
       icon: "far fa-map"
       text: "경기도 화성시 동탄반석로"
 
-    - label: "고하영입니다."
+    - label: "고하영입니다"
       icon: "far fa-user"
       text: "언제든 환영합니다"
 
