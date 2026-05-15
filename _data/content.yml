@@ -108,7 +108,7 @@ resume:
     title: "Education"
     items:
 
-      - name: "- name: 고등학교 재학 및검정고시"
+      - name: "고등학교 재학 및검정고시"
         subname: "합격"
         subname: "이산고등학교"
         period: "2021 - 2023(중퇴)"
@@ -256,7 +256,7 @@ contacts:
       icon: "far fa-map"
       text: "경기도 화성시 동탄반석로"
 
-    - label: "협업 제안"
+    - label: "고하영입니다."
       icon: "far fa-user"
       text: "언제든 환영합니다"
 
