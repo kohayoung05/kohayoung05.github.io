@@ -68,35 +68,35 @@ skills:
   subtitle: "my <b>Talent</b>"
   bg_title: "Skills"
 
-  column1:
+  column11:
     items:
-      - label: "PHP" #0-10 progress in dots
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-        value: "85" #0-100 progress in %
+      - label: "Data Analysis & Research"
+        text: "시장 데이터 및 조사 자료를 바탕으로 타겟 고객의 숨은 니즈를 도출하는 기획력"
+        value: "85"
 
-      - label: "Python" #0-10 progress in dots
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-        value: "75" #0-100 progress in %
+      - label: "Technical Writing"
+        text: "복잡한 IT 기술을 독자가 이해하기 쉬운 직관적인 언어로 재가공하는 문서화 역량"
+        value: "90"
 
   column2:
     items:
-      - label: "JavaScript" #0-10 progress in dots
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-        value: "75" #0-100 progress in %
+      - label: "AI & Vibe Coding"
+        text: "생성형 AI와 프롬프트 엔지니어링을 활용하여 아이디어를 빠르게 결과물과 코드로 구현하는 역량"
+        value: "90"
 
-      - label: "React" #0-10 progress in dots
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-        value: "70" #0-100 progress in %
+      - label: "Python & IT Infra"
+        text: "Python 기반 데이터 처리 및 클라우드(AWS/Linux) 환경에 대한 실무적 이해도"
+        value: "75"
 
   column3:
     items:
-      - label: "WordPress" #0-10 progress in dots
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-        value: "90" #0-100 progress in %
+      - label: "Logical Problem Solving"
+        text: "시뮬레이션 기법을 활용하여 객관적인 대안을 탐색하고 팀 프로젝트 효율성 극대화"
+        value: "80"
 
-      - label: "Adobe XD" #0-10 progress in dots
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-        value: "80" #0-100 progress in %
+      - label: "Git & GitHub"
+        text: "버전 관리 시스템을 활용한 산출물 관리 및 유관 부서(개발/기획)와의 원활한 협업"
+        value: "75"
 
 ### Resume [ resume ]
 resume:
