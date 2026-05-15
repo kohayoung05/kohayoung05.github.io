@@ -107,38 +107,35 @@ resume:
   education:
     title: "Education"
     items:
-      - name: "CoderHouse Courses"
-        subname: "Backend Programming"
-        period: "2014 - 2016"
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
-      - name: "Lviv National Academy of Arts"
-        subname: "Faculty of Design"
-        period: "2012 - 2014"
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      - name: "- name: 고등학교 재학 및검정고시"
+        subname: "합격"
+        subname: "이산고등학교"
+        period: "2021 - 2023(중퇴)"
+        text: "솔리언 또래상담 학교 대표로서 상담사로서의 자질을 깊이 있게 길렀습니다. 학생들을 직접 인솔하고 주도적으로 상담 활동을 이끌며 리더십을 발휘했습니다."
+      - name: "한국폴리텍대학 서울강서캠퍼스"
 
-      - name: "IT Future"
-        subname: "High School"
-        period: "2010 - 2012"
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-
+        subname: "사이버보안과 재학"
+        period: "2025 - 현재"
+        text: "보안 인프라 구축, 취약점 분석 및 시스템 설계를 전공하며 IT 기술의 기초부터 실무 적용까지 학습하고 있습니다."
+  
   experience:
     title: "Experience"
     items:
-      - name: "UI Head &amp; Manager"
-        subname: "Soft Tech Inc."
-        period: "2020 - <b>Present</b>"
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      - name: "T-RAD 프로젝트 PM"
+      - subname: "리눅스 이상 행위 탐지 시스템 개발"
+        period: "2026"
+        text: "프로젝트 매니저로서 팀원들의 의견을 조율하고, 논리적인 시뮬레이션을 통해 최적의 탐지 룰셋을 설계하여 프로젝트를 성공적으로 리드했습니다."
 
-      - name: "UI / UX Specialist"
-        subname: "Kana Design Studio"
-        period: "2018 - 2020"
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      - name: "ZARA(자라) 물류센터"
+      - subname: "의류 분류 및 패키징 (단기)"
+        period: "2023 - 2026"
+        text: "약 3년간 유동적으로 출근하며 의류 접기, 포장, 재고 정리 및 운반 업무를 수행했습니다. 반복적인 작업 속에서도 꼼꼼함을 잃지 않고 현장 실무의 기초적인 흐름을 익혔습니다."
 
-      - name: "Plugins Developer"
-        subname: "Fiverr.com"
-        period: "2016 - 2018"
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      - name: "방이옥"
+        subname: "홀 서비스 스태프"
+        period: "2023"
+        text: "1년간 홀 스태프로 근무하며 매장 서비스 및 고객 응대 업무를 수행했습니다. 현장에서 직접 고객과 소통하며 서비스 마인드를 길렀습니다."
 
 
 ### Testimonials [ testimonials ]
@@ -250,32 +247,33 @@ blog:
 
 ### Contact [ contacts ]
 contacts:
-  title: "Contact Me"
-  subtitle: "Let’s <b>Talk About Ideas</b>"
-  bg_title: "Contact Me"
+  title: "연락하기"
+  subtitle: "<b>프로젝트</b> 제안 및 문의"
+  bg_title: "Contact"
 
   list:
-    - label: "Address"
+    - label: "위치"
       icon: "far fa-map"
-      text: "North Tower, Toronto, Canada"
+      text: "경기도 화성시 동탄반석로"
 
-    - label: "Freelance"
+    - label: "협업 제안"
       icon: "far fa-user"
-      text: "Available Right Now"
+      text: "언제든 환영합니다"
 
-    - label: "Email"
+    - label: "이메일"
       icon: "far fa-envelope"
-      text: "zoe.miller@mydomain.com"
+      text: "goodjobhayoung@gmail.com"
+      link: "mailto:goodjobhayoung@gmail.com" # 클릭 시 바로 메일 쓰기 창이 열리도록 추가
 
-    - label: "Phone"
+    - label: "연락처"
       icon: "far fa-address-book"
-      text: "+1 900 - 900 - 9000"
+      text: "010-8414-5117" # 한국 국가번호(+82)를 쓸 때는 맨 앞의 '0'을 빼야 해서, 깔끔하게 010으로 통일했습니다.
 
 ### Portfolio [ portfolio ]
 #items generates from dir /_works/*
 portfolio:
-  title: "Portfolio"
-  subtitle: "my <b>Cases</b>"
+  title: "포트폴리오"
+  subtitle: "주요 <b>프로젝트 사례</b>"
   bg_title: "Portfolio"
   button:
     link: "works/"
