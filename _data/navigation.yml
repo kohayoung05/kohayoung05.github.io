@@ -7,57 +7,57 @@
 
 main:
   # Home
-  - title: "Home"
+  - title: "홈"
     url: "/"
     parent: 0
 
   # Services
-  - title: "Services"
+  - title: "핵심 역량"
     url: "#services-section"
     parent: 0
 
   # Skills
-  - title: "Skills"
+  - title: "기술 스택"
     url: "#skills-section"
     parent: 0
 
   # Works
-  - title: "Works"
-    url: "#works-section"
+  - title: "포트폴리오"
+    url: "#portfolio-section" # 템플릿 기본값이 works가 아니라 portfolio인 경우가 많습니다. 만약 스크롤이 안 되면 "#works-section"으로 돌려주세요.
     parent: 0
 
   # Resume
-  - title: "Resume"
+  - title: "이력서"
     url: "#resume-section"
     parent: 0
 
   # Testimonials
-  - title: "Testimonials"
+  - title: "추천서"
     url: "#testimonials-section"
     parent: 0
 
   # Pricing
-  - title: "Pricing"
+  - title: "서비스 단가"
     url: "#pricing-section"
     parent: 0
 
   # Blog
-  - title: "Blog"
+  - title: "블로그"
     url: "#blog-section"
     parent: 0
 
   # Contact
-  - title: "Contact"
-    url: "#contact-section"
+  - title: "연락처"
+    url: "#contacts-section" # 테마에 따라 #contact-section 일 수도 있습니다.
     parent: 0
 
-  # Additional Pages
-  - title: "Pages"
+  # Additional Pages (하위 메뉴가 있는 항목)
+  - title: "더보기"
     url: ""
     parent: 1
     childs:
-        - title: "Works"
+        - title: "전체 프로젝트"
           url: "works/"
 
-        - title: "Blog"
+        - title: "블로그 게시물"
           url: "blog/"

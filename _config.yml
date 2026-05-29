@@ -28,14 +28,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-# basic settings
-title: "Luique - CV Resume & Personal Portfolio Jekyll Theme"
-email: "your-email@example.com"
-description: "Jekyll Resume / CV / vCard / Portfolio and Personal Portfolio by bslthemes"
-author: "Luique"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://kohayoung05.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-date_format: "%Y-%m-%d"
+# Basic settings
+title: "고하영 - 사이버보안 포트폴리오"
+email: "goodjobhayoung@gmail.com"
+description: "시스템 보안과 클라우드 인프라 방어에 주력하는 예비 보안 전문가 고하영의 포트폴리오입니다."
+author: "고하영"
+baseurl: "" # ⚠️여기는 절대 건드리지 마세요! 빈칸 유지!
+url: "https://kohayoung05.github.io"
 
 # paginations & permalinks
 paginate: 6
